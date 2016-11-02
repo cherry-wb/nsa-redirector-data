@@ -29,3 +29,7 @@ So the new data dumps from the Shadow Broker includes both IPs and hostnames. So
   * port scan results from the domains group
 * service-scan-results-ips
   * port scan results from the IPs group
+* os-scan-results-domains
+  * OS scan results from the domains group
+* os-scan-results-ips
+  * OS scan results from the IPs group
